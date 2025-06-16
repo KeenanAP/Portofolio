@@ -29,10 +29,6 @@ Repositori ini merupakan portofolio pribadi yang menampilkan proyek-proyek, kete
    ```
 2. Buka file `index.html` di browser.
 
-## ✍️ Kontribusi
-
-Kontribusi sangat terbuka! Silakan buat pull request atau buka issue jika ingin menambahkan fitur atau melaporkan bug.
-
 ## 📫 Kontak
 
 - Email: [keepbgaming@gmail.com]
