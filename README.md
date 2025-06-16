@@ -21,10 +21,6 @@ Repositori ini merupakan portofolio pribadi yang menampilkan proyek-proyek, kete
 - Kontak dan informasi pribadi
 - Animasi dan efek interaktif
 
-## 📸 Preview
-
-_Sertakan screenshot portofolio di sini (opsional)_
-
 ## 📦 Cara Menjalankan
 
 1. Clone repositori ini:
