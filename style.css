@@ -56,8 +56,8 @@ p {
 }
 
 .colorful-section {
-  background: linear-gradient(to right, #1e3c72, #2a5298); 
-  color: #ffffff;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #ffffff;
 }
 
 
@@ -102,6 +102,17 @@ p {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
+.project-card a {
+    color: #00c9ff;
+    text-decoration: underline;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.project-card a:hover {
+    color: #fbd786;
+}
+
 .project-card:hover {
     transform: translateY(-5px);
 }
@@ -119,7 +130,6 @@ p {
 
 footer.footer {
     background: #1b1b1b;
-    color: #eee;
     text-align: center;
     padding: 40px 20px;
     margin-top: 50px;
@@ -138,7 +148,7 @@ footer.footer {
 .footer .social-icons img {
     width: 32px;
     height: 32px;
-    filter: brightness(0) invert(1);
+    background: none;
 }
 
 .footer .social-icons a:hover {
