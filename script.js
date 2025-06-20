@@ -13,7 +13,7 @@ function revealOnScroll() {
 window.addEventListener('scroll', revealOnScroll);
 window.addEventListener('load', revealOnScroll);
 
-const text = "👋 Keenan Arelian Purnama";
+const text = "Keenan Arelian Purnama";
 let i = 0;
 function typeWriter() {
     if (i < text.length) {
